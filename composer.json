@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kanata-php/conveyor-server-client": "^0.0.1"
+    }
+}
